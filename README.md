@@ -9,5 +9,5 @@
 5. 填入参数。第一个参数是在[serverchan](https://sct.ftqq.com/sendkey)中看到的SendKey，剩下的参数即传入hashcat的参数。
 6. 点Select完成配置
 7. 最后就可以选择一个你喜欢的配置然后rent了。
-8. 等待，最后结果会发到微信上，同时docker会自动销毁，不会浪费一分钱。
+8. 等待，最后结果会发到微信上，同时docker会自动销毁(TODO)，不会浪费一分钱。
 
